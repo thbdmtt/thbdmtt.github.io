@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thbdmtt.github.io/sitemap.xml
